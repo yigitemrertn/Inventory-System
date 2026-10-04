@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d9a581a34564ae41bca9ac21844666a, type: 3}
+  m_Name: IDHealthPot
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: Health Potion
+  icon: {fileID: -1694601886522583617, guid: 149b50f41c916f4479cc2005f803f9f5, type: 3}
+  description: You know what it is.
+  hp: 2
+  fireRate: 0
+  dmg: 0
+  range: 0
+  shotSpeed: 0
+  luck: 0

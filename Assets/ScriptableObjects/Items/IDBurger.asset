@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d9a581a34564ae41bca9ac21844666a, type: 3}
+  m_Name: IDBurger
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: Burger
+  icon: {fileID: -4692336645858234051, guid: 149b50f41c916f4479cc2005f803f9f5, type: 3}
+  description: Classic...
+  affectedStats:
+  - key: moveSpeed
+    value: 10
